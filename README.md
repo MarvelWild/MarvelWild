@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 I am freelancer. Open to propositions. C# SQL LUA PHP JS
 
 <!--
 **MarvelWild/MarvelWild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
