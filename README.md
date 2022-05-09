@@ -1,4 +1,4 @@
-freelancer, gamer, artist, and more... Open to propositions. C# SQL LUA PHP JS
+freelancer, gamer, artist, and more... Open to offers. C# SQL LUA PHP JS
 
 <!--
 **MarvelWild/MarvelWild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
